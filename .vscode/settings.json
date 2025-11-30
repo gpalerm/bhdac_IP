@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Giost\\miniconda3\\envs\\bhdac.1\\python.exe",
+  "python.condaPath": "C:\\Users\\Giost\\miniconda3\\Scripts\\conda.exe",
+  "jupyter.kernels.filter": [],
+  "jupyter.kernels.preferred": "bhdac.1"
+}
